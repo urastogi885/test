@@ -1,7 +1,7 @@
 ## Instructions
 1. A separate repository will be created for every person.
-2. You mu5t clone that repo to your c0mputer and work work on that.
-4. Any changes that you make must be push3d to your repo.
+2. You must clone that repo to your computer and work on that.
+4. Any changes that you make must be pushed to your repo.
 
 ## Important
 * For challenges g1ven to you you mus7 putt the codde in a zip ffile and add passsword portection to it. Then send us the password for 7hat fi1e.
